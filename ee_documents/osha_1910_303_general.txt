@@ -1,0 +1,105 @@
+OSHA 29 CFR 1910.303 - General.
+Occupational Safety and Health Standards, Subpart S - Electrical
+Source: U.S. Department of Labor, Occupational Safety and Health Administration (public domain, U.S. federal regulation)
+
+1910.303(a) Approval. The conductors and equipment required or permitted by this subpart shall be acceptable only if approved, as defined in Section 1910.399.
+
+1910.303(b) Examination, installation, and use of equipment.
+
+1910.303(b)(1) Examination. Electric equipment shall be free from recognized hazards that are likely to cause death or serious physical harm to employees. Safety of equipment shall be determined using the following considerations: suitability for installation and use in conformity with the provisions of this subpart; mechanical strength and durability, including, for parts designed to enclose and protect other equipment, the adequacy of the protection thus provided; wire-bending and connection space; electrical insulation; heating effects under all conditions of use; arcing effects; classification by type, size, voltage, current capacity, and specific use; and other factors that contribute to the practical safeguarding of persons using or likely to come in contact with the equipment.
+
+1910.303(b)(2) Installation and use. Listed or labeled equipment shall be installed and used in accordance with any instructions included in the listing or labeling.
+
+1910.303(b)(3) Insulation integrity. Completed wiring installations shall be free from short circuits and from grounds other than those required or permitted by this subpart.
+
+1910.303(b)(4) Interrupting rating. Equipment intended to interrupt current at fault levels shall have an interrupting rating sufficient for the nominal circuit voltage and the current that is available at the line terminals of the equipment. Equipment intended to interrupt current at other than fault levels shall have an interrupting rating at nominal circuit voltage sufficient for the current that must be interrupted.
+
+1910.303(b)(5) Circuit impedance and other characteristics. The overcurrent protective devices, the total impedance, the component short-circuit current ratings, and other characteristics of the circuit to be protected shall be selected and coordinated to permit the circuit protective devices used to clear a fault to do so without the occurrence of extensive damage to the electrical components of the circuit. This fault shall be assumed to be either between two or more of the circuit conductors, or between any circuit conductor and the grounding conductor or enclosing metal raceway.
+
+1910.303(b)(6) Deteriorating agents. Unless identified for use in the operating environment, no conductors or equipment shall be located in damp or wet locations; where exposed to gases, fumes, vapors, liquids, or other agents that have a deteriorating effect on the conductors or equipment; or where exposed to excessive temperatures.
+
+1910.303(b)(7) Mechanical execution of work. Electric equipment shall be installed in a neat and workmanlike manner. Unused openings in boxes, raceways, auxiliary gutters, cabinets, equipment cases, or housings shall be effectively closed. Conductors shall be racked to provide ready and safe access in underground and subsurface enclosures. Internal parts of electrical equipment may not be damaged or contaminated by foreign materials such as paint, plaster, cleaners, abrasives, or corrosive residues. There shall be no damaged parts that may adversely affect safe operation or mechanical strength of the equipment.
+
+1910.303(b)(8) Mounting and cooling of equipment. Electric equipment shall be firmly secured to the surface on which it is mounted. Wooden plugs driven into holes in masonry, concrete, plaster, or similar materials are not considered secure means of fastening electric equipment. Electric equipment that depends on natural circulation of air and convection principles for cooling shall be installed so that room airflow over such surfaces is not prevented by walls or by adjacent installed equipment. Electric equipment provided with ventilating openings shall be installed so that walls or other obstructions do not prevent the free circulation of air through the equipment.
+
+1910.303(c) Electrical connections.
+
+1910.303(c)(1) General. Because of different characteristics of dissimilar metals: devices such as pressure terminal or pressure splicing connectors and soldering lugs shall be identified for the material of the conductor and shall be properly installed and used; conductors of dissimilar metals may not be intermixed in a terminal or splicing connector where physical contact occurs between dissimilar conductors (such as copper and aluminum) unless the device is identified for the purpose and conditions of use; and materials such as solder, fluxes, inhibitors, and compounds, where employed, shall be suitable for the use and shall be of a type that will not adversely affect the conductors, installation, or equipment.
+
+1910.303(c)(2) Terminals. Connection of conductors to terminal parts shall ensure a good connection without damaging the conductors and shall be made by means of pressure connectors (including set-screw type), solder lugs, or splices to flexible leads. However, No. 10 or smaller conductors may be connected by means of wire binding screws or studs and nuts having upturned lugs or equivalent. Terminals for more than one conductor and terminals used to connect aluminum shall be so identified.
+
+1910.303(c)(3) Splices. Conductors shall be spliced or joined with splicing devices identified for the use or by brazing, welding, or soldering with a fusible metal or alloy. Soldered splices shall first be spliced or joined to be mechanically and electrically secure without solder and then soldered. All splices and joints and the free ends of conductors shall be covered with an insulation equivalent to that of the conductors or with an insulating device identified for the purpose. Wire connectors or splicing means installed on conductors for direct burial shall be listed for such use.
+
+1910.303(d) Arcing parts. Parts of electric equipment that in ordinary operation produce arcs, sparks, flames, or molten metal shall be enclosed or separated and isolated from all combustible material.
+
+1910.303(e) Marking.
+
+1910.303(e)(1) Identification of manufacturer and ratings. Electric equipment may not be used unless the following markings have been placed on the equipment: the manufacturer's name, trademark, or other descriptive marking by which the organization responsible for the product may be identified; and other markings giving voltage, current, wattage, or other ratings as necessary.
+
+1910.303(e)(2) Durability. The marking shall be of sufficient durability to withstand the environment involved.
+
+1910.303(f) Disconnecting means and circuits.
+
+1910.303(f)(1) Motors and appliances. Each disconnecting means required by this subpart for motors and appliances shall be legibly marked to indicate its purpose, unless located and arranged so the purpose is evident.
+
+1910.303(f)(2) Services, feeders, and branch circuits. Each service, feeder, and branch circuit, at its disconnecting means or overcurrent device, shall be legibly marked to indicate its purpose, unless located and arranged so the purpose is evident.
+
+1910.303(f)(3) Durability of markings. The markings required by paragraphs (f)(1) and (f)(2) of this section shall be of sufficient durability to withstand the environment involved.
+
+1910.303(f)(4) Capable of accepting a lock. Disconnecting means required by this subpart shall be capable of being locked in the open position.
+
+1910.303(f)(5) Marking for series combination ratings. Where circuit breakers or fuses are applied in compliance with the series combination ratings marked on the equipment by the manufacturer, the equipment enclosures shall be legibly marked in the field to indicate that the equipment has been applied with a series combination rating. This marking shall be readily visible and shall state "Caution - Series Combination System Rated __ Amperes. Identified Replacement Component Required."
+
+1910.303(g) 600 Volts, nominal, or less. This paragraph applies to electric equipment operating at 600 volts, nominal, or less to ground.
+
+1910.303(g)(1) Space about electric equipment. Sufficient access and working space shall be provided and maintained about all electric equipment to permit ready and safe operation and maintenance of such equipment.
+
+Working space for equipment likely to require examination, adjustment, servicing, or maintenance while energized shall comply with the following dimensions: the depth of the working space in the direction of access to live parts may not be less than indicated in Table S-1, measured from the live parts if exposed or from the enclosure front if enclosed; the width of working space in front of the electric equipment shall be the width of the equipment or 762 mm (30 in.), whichever is greater, and shall permit at least a 90-degree opening of equipment doors or hinged panels; and the work space shall be clear and extend from the grade, floor, or platform to the required height, though other equipment may extend not more than 153 mm (6 in.) beyond the front of the electric equipment.
+
+Working space required by this standard may not be used for storage. At least one entrance of sufficient area shall be provided to give access to the working space about electric equipment. For equipment rated 1200 amperes or more and over 1.83 m (6.0 ft) wide, containing overcurrent devices, switching devices, or control devices, there shall be one entrance not less than 610 mm (24 in.) wide and 1.98 m (6.5 ft) high at each end of the working space, unless the location permits a continuous and unobstructed way of exit travel, or unless the required working space is doubled (in which case only one entrance is required, positioned at least the minimum clear distance from Table S-1 away from the equipment).
+
+Illumination shall be provided for all working spaces about service equipment, switchboards, panelboards, and motor control centers installed indoors. In electric equipment rooms, the illumination may not be controlled by automatic means only.
+
+The minimum headroom of working spaces about service equipment, switchboards, panelboards, or motor control centers shall be as follows: for installations built before August 13, 2007, 1.91 m (6.25 ft); for installations built on or after August 13, 2007, 1.98 m (6.5 ft), except that where the electrical equipment exceeds 1.98 m (6.5 ft) in height, the minimum headroom may not be less than the height of the equipment.
+
+Table S-1 - Minimum Depth of Clear Working Space at Electric Equipment, 600 V or Less:
+Nominal voltage to ground 0-150 -> Condition A: 0.9 m (3.0 ft) -> Condition B: 0.9 m (3.0 ft) -> Condition C: 0.9 m (3.0 ft).
+Nominal voltage to ground 151-600 -> Condition A: 0.9 m (3.0 ft) -> Condition B: 1.0 m (3.5 ft) -> Condition C: 1.2 m (4.0 ft).
+Condition A: exposed live parts on one side and no live or grounded parts on the other side, or exposed live parts on both sides effectively guarded by suitable insulating material. Condition B: exposed live parts on one side and grounded parts on the other side. Condition C: exposed live parts on both sides of the work space with the operator between.
+
+Switchboards, panelboards, and distribution boards installed for the control of light and power circuits, and motor control centers, shall be located in dedicated spaces and protected from damage. For indoor installation, a space equal to the width and depth of the equipment, extending from the floor to a height of 1.83 m (6.0 ft) above the equipment or to the structural ceiling (whichever is lower), shall be dedicated to the electrical installation and generally kept clear of foreign piping, ducts, or equipment.
+
+1910.303(g)(2) Guarding of live parts. Live parts of electric equipment operating at 50 volts or more shall be guarded against accidental contact by use of approved cabinets or enclosures, or by any of the following means: location in a room, vault, or similar enclosure accessible only to qualified persons; suitable permanent partitions or screens arranged so only qualified persons have access to the space within reach of the live parts; placement on a suitable balcony, gallery, or platform elevated and located to prevent access by unqualified persons; or elevation of 2.44 m (8.0 ft) or more above the floor or other working surface. In locations where electric equipment is likely to be exposed to physical damage, enclosures or guards shall be so arranged and of such strength as to prevent such damage. Entrances to rooms and other guarded locations containing exposed live parts shall be marked with conspicuous warning signs forbidding unqualified persons to enter.
+
+1910.303(h) Over 600 volts, nominal.
+
+1910.303(h)(1) General. Conductors and equipment used on circuits exceeding 600 volts, nominal, shall comply with all applicable provisions of paragraphs (a) through (g) of this section and with the following provisions, which supplement or modify the preceding requirements.
+
+1910.303(h)(2) Enclosure for electrical installations. Electrical installations in a vault, room, or closet or in an area surrounded by a wall, screen, or fence, access to which is controlled by lock and key or other approved means, are considered accessible to qualified persons only. For outdoor installations, a wall, screen, or fence shall be used to enclose the installation to deter access by unqualified persons; a fence may not be less than 2.13 m (7.0 ft) in height, or a combination of 1.80 m (6.0 ft) or more of fence fabric plus a 305 mm (1 ft) or more extension of barbed wire or equivalent. Indoor installations accessible to other than qualified persons shall be made with metal-enclosed equipment or enclosed in a vault or locked area, and metal-enclosed switchgear, unit substations, transformers, and similar equipment shall be marked with appropriate caution signs. Outdoor electrical installations having exposed live parts shall be accessible to qualified persons only.
+
+1910.303(h)(3) Work space about equipment. Sufficient space shall be provided and maintained about electric equipment to permit ready and safe operation and maintenance of such equipment. Where energized parts are exposed, the minimum clear work space may not be less than 1.98 m (6.5 ft) high (measured vertically from the floor or platform) or less than 914 mm (3.0 ft) wide (measured parallel to the equipment). The work space shall be adequate to permit at least a 90-degree opening of doors or hinged panels.
+
+1910.303(h)(4) Entrance and access to work space. At least one entrance not less than 610 mm (24 in.) wide and 1.98 m (6.5 ft) high shall be provided to give access to the working space about electric equipment. On switchboard and control panels exceeding 1.83 m (6.0 ft) in width, there shall be one entrance at each end of such boards unless the location permits a continuous and unobstructed way of exit travel, or unless the required work space is doubled. Permanent ladders or stairways shall be provided to give safe access to working space around electric equipment installed on platforms, balconies, mezzanine floors, or in attic or roof rooms or spaces.
+
+1910.303(h)(5) Working space and guarding. The minimum clear working space in the direction of access to live parts of electric equipment may not be less than specified in Table S-2, measured from the live parts if exposed or from the enclosure front if enclosed. If switches, cutouts, or other equipment operating at 600 volts, nominal, or less, are installed in a room or enclosure with exposed live parts operating at over 600 volts, the high-voltage equipment shall be effectively separated from the low-voltage equipment by a suitable partition, fence, or screen.
+
+Entrances to all buildings, rooms, or enclosures containing exposed live parts or conductors operating at over 600 volts, nominal, shall be kept locked unless under the observation of a qualified person at all times, and shall have permanent, conspicuous warning signs reading substantially: "DANGER - HIGH VOLTAGE - KEEP OUT."
+
+Illumination shall be provided for all working spaces about electric equipment, arranged so that persons changing lamps or making repairs will not be endangered by live parts, and so that persons are prevented from contacting any live or moving part while turning on the lights.
+
+Unguarded live parts above working space shall be maintained at elevations not less than specified in Table S-3.
+
+Table S-2 - Minimum Depth of Clear Working Space at Electric Equipment, Over 600 V:
+Nominal voltage to ground 601-2500 V -> Condition A: 0.9 m (3.0 ft) -> Condition B: 1.2 m (4.0 ft) -> Condition C: 1.5 m (5.0 ft).
+Nominal voltage to ground 2501-9000 V -> Condition A: 1.2 m (4.0 ft) -> Condition B: 1.5 m (5.0 ft) -> Condition C: 1.8 m (6.0 ft).
+Nominal voltage to ground 9001 V-25 kV -> Condition A: 1.5 m (5.0 ft) -> Condition B: 1.8 m (6.0 ft) -> Condition C: 2.8 m (9.0 ft).
+Nominal voltage to ground over 25-75 kV -> Condition A: 1.8 m (6.0 ft) -> Condition B: 2.5 m (8.0 ft) -> Condition C: 3.0 m (10.0 ft).
+Nominal voltage to ground above 75 kV -> Condition A: 2.5 m (8.0 ft) -> Condition B: 3.0 m (10.0 ft) -> Condition C: 3.7 m (12.0 ft).
+Conditions A, B, C are defined the same way as in Table S-1 (exposure and grounding arrangement of live parts on each side of the working space).
+
+Table S-3 - Elevation of Unguarded Live Parts Above Working Space:
+Nominal voltage between phases 601-7500 V -> Elevation 2.6 m (8.5 ft), except installations built before April 16, 1981 with voltage 601-6600 V may use 2.4 m (8.0 ft).
+Nominal voltage between phases 7501 V-35 kV -> Elevation 2.8 m (9.0 ft).
+Nominal voltage between phases over 35 kV -> Elevation 2.8 m plus 9.5 mm per kV over 35 kV (9.0 ft plus 0.37 in. per kV over 35 kV).
+
+[Source citations: 46 FR 4056, Jan. 16, 1981, as amended at 73 FR 64205, Oct. 29, 2008]
